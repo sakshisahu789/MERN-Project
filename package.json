@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@material-ui/styles": "^4.11.4",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "mongoose": "^5.8.5",
+    "react-router": "^6.2.1",
+    "react-router-dom": "^6.2.1"
+  }
+}
